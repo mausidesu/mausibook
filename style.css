@@ -2,7 +2,6 @@ html {
   min-height: 100%;
   background-image:url(https://media.discordapp.net/attachments/1203551746874544128/1213265216939360307/wp_wallpaper.png?ex=65f4d849&is=65e26349&hm=3e197a1cf7b26b1983d9b886af22cc12bf0481b25d9d46d135f476abbc9ad0b8&=&format=webp&quality=lossless&width=550&height=309);
   background-size: cover;
-  cursor:url(https://cur.cursors-4u.net/nature/nat-10/nat985.cur), auto;
   /* mouse over link */
 a:hover {
   color: rgb(255, 155, 233);
