@@ -3,6 +3,11 @@ html {
   background-image:url(https://media.discordapp.net/attachments/1203551746874544128/1213265216939360307/wp_wallpaper.png?ex=65f4d849&is=65e26349&hm=3e197a1cf7b26b1983d9b886af22cc12bf0481b25d9d46d135f476abbc9ad0b8&=&format=webp&quality=lossless&width=550&height=309);
   background-size: cover;
 
+  /* mouse over link */
+a:hover {
+  color: rgb(255, 155, 233);
+}
+
 h1 {
     padding-left: 30px;
     padding-bottom: 30px;
@@ -29,3 +34,4 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
   }
 }
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/nature/nat-10/nat985.cur), auto !important;} /* End https://www.cursors-4u.com */
