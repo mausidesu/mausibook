@@ -2,13 +2,18 @@ html {
   min-height: 100%;
   background-image:url(https://media.discordapp.net/attachments/1203551746874544128/1213265216939360307/wp_wallpaper.png?ex=65f4d849&is=65e26349&hm=3e197a1cf7b26b1983d9b886af22cc12bf0481b25d9d46d135f476abbc9ad0b8&=&format=webp&quality=lossless&width=550&height=309);
   background-size: cover;
+
 h1 {
+    padding-left: 30px;
+    padding-bottom: 30px;
     color: rgb(60, 68, 177);
     font-size: xx-large;
     text-align: left;
     font-family: 'Courier New', Courier, monospace;
   }
   p {
+    padding-left: 30px;
+    padding-bottom: 30px;
     color: rgb(74, 0, 54);
     text-align: left;
     font-size: x-large;
@@ -16,6 +21,8 @@ h1 {
     font-weight: bold;
   }
   a {
+    padding-left: 30px;
+    padding-bottom: 30px;
     color: rgb(74, 0, 54);
     text-align: left;
     font-size: medium;
